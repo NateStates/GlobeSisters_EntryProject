@@ -3,6 +3,11 @@ import 'package:code_practice/components/userHeader_and_searchBar.dart';
 import 'package:code_practice/constants.dart';
 import 'package:flutter/material.dart';
 
+/*
+  THIS IS THE SCREEN THAT WOULD DISPLAY THE GENERATED LIST VIEW FROM THE USER TYPED ENTRY IN TEXT FORM FIELD
+  Note: This is a derivative of Screen 2 (Post page)
+*/
+
 class InviteList extends StatelessWidget {
   InviteList({Key key, this.friendsName, this.friendsUserName}) : super(key: key);
 
