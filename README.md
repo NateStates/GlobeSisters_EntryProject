@@ -13,5 +13,5 @@ Screen 3 (profile_page.dart):
 
 ![image](https://user-images.githubusercontent.com/76016696/191601132-b2743024-c7df-435c-8260-4f045f5caa52.png)
 
-Screen 2 (invite_friends.dart)
+Screen 2 (invite_friends.dart and invite_list.dart)
 [Note: This screen crashed after upgrading the Flutter SDk to a newer version; currently facing connectivtiy issues with Android Emulator as well]
