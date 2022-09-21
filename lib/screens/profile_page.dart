@@ -2,6 +2,19 @@ import 'package:code_practice/components/userHeader_and_searchBar.dart';
 import 'package:code_practice/constants.dart';
 import 'package:flutter/material.dart';
 
+
+/*
+  THIS IS SCREEN 3 (Profile Pafge)
+  Note: This page handles the Text Field entry for user Profile   
+  
+  
+  Official Description:
+  -------------------------------------
+Third-page "Profile":
+  - You have to design a profile page with a custom image and information
+  - It has to contain an image, first name, last name, age, and basic info of your choice
+*/
+
 class ProfilePage extends StatefulWidget {
   const ProfilePage({Key key}) : super(key: key);
 
