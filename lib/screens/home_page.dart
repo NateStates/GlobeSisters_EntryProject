@@ -2,6 +2,18 @@ import 'package:code_practice/components/title_with_button.dart';
 import 'package:code_practice/components/userHeader_and_searchBar.dart';
 import 'package:flutter/material.dart';
 
+/*
+  THIS IS SCREEN 1 (Feed Page)
+  Note: This page handles the ListView Builder scrolling feature 
+  
+  
+  Official Description:
+  -------------------------------------
+  First-page “Feed”:
+    -Have a list view builder with some asset and or network Images that we can scroll
+    -You have to handle the scrollview
+*/
+
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
 
