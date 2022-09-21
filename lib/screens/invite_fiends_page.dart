@@ -14,6 +14,15 @@ import 'package:flutter/material.dart';
 Second page “Post”:
    - This page has to have a form with a textformfield input and a button that add to a list the text entered in the input
    - All the text added to the list has to be displayed on the screen and handled by a scrollview
+   
+   
+    !NOTE!: I updated my flutter packages last night and for some reason, my progress on this screen is gone and I could no longer connect to the Android emulator. 
+    The following is the description of what I have done in this page:
+    - Created 2 Text Form Fields in which the entered input would correspond into a scrollable ListView
+    - Implemented “Validation” feature of text form field in which if the user entered input is invalid or empty, then user are prompted to re-enter text
+    -Added a button that allow users to view the generated ListView
+    - Implemented the theme header bar 
+    -Added decorative pictures to maintain the app theme
 */
 
 
