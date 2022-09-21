@@ -5,7 +5,12 @@ import 'package:code_practice/screens/profile_page.dart';
 import 'package:flutter/material.dart';
 
 
-//import 'package:code_practice/body.dart';
+/*
+  THIS IS THE MASTER SCREEN, THE SCREEN THAT HANDLES SCREEN NAVIGATION, APPBAR, AND BOTTOM-NAVIGATION-BAR
+*/
+
+
+
 
 class MasterScreen extends StatefulWidget {
   //const Home_Screen({ Key key }) : super(key: key);
