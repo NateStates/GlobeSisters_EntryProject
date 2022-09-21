@@ -20,8 +20,8 @@ Second page “Post”:
     The following is the description of what I have done in this page:
     - Created 2 Text Form Fields in which the entered input would correspond into a scrollable ListView
     - Implemented “Validation” feature of text form field in which if the user entered input is invalid or empty, then user are prompted to re-enter text
-    -Created a derivative screen called invite_list.dart which contains all the generated list entered in the Text Form Field of invite_friends_page.dart
-    -Added a button that allow users to view the generated ListView
+    -Created a derivative screen called 'invite_list.dart' which contains all the generated list entered in the Text Form Field of 'invite_friends_page.dart'
+    -Added a button that links to 'invite_list.dart' to allow users to view the generated ListView
     - Implemented the theme header bar 
     -Added decorative pictures to maintain the app theme
 */
