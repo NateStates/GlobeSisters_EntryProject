@@ -4,7 +4,20 @@ import 'package:code_practice/constants.dart';
 import 'package:code_practice/screens/invite_list.dart';
 import 'package:flutter/material.dart';
 
-/*GLOBAL VARIABLE*/
+/*
+  THIS IS SCREEN 2 (Pst Page)
+  Note: This page handles the Text Form Field (user entry and validation) that will later be generated into a list at 'invite_list.dart' 
+  
+  
+  Official Description:
+  -------------------------------------
+Second page “Post”:
+   - This page has to have a form with a textformfield input and a button that add to a list the text entered in the input
+   - All the text added to the list has to be displayed on the screen and handled by a scrollview
+*/
+
+
+
 
 //TextFormField for Friends Name
 var _friendsName;
