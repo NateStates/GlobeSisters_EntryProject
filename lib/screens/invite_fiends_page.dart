@@ -96,35 +96,6 @@ class _InviteFriendsPageState extends State<InviteFriendsPage> {
                 ),
               ),
 
-              // TextFormField(
-              //   decoration: InputDecoration(
-              //     labelText: "Friend\'s GlobeSister Username",
-              //     icon: Icon(Icons.verified_user_outlined),
-              //     border: OutlineInputBorder(),
-              //    )
-              // ),
-              // ListView(
-              //   children: [
-              //     TextField(
-              //       decoration: InputDecoration(hintText: 'Product'),
-              //     ),
-
-              //   ]
-              //   ),
-              //Image.asset("assets/images/LosAngeles.jpg"),
-              // Container(
-              //   padding: EdgeInsets.all(10),
-              //   decoration: BoxDecoration(
-              //     color: Colors.white,
-              //     boxShadow: [
-              //       BoxShadow(
-              //         offset: Offset(0,10),
-              //         blurRadius: 50,
-              //         color: kPrimaryColor.withOpacity(0.23)
-              //         )
-              //       ]
-              //   )
-              //   )
             ],
           ))
     ]);

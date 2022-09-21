@@ -27,32 +27,7 @@ class TitleWithButton extends StatelessWidget {
       ),
     );
   }
-}// class TitleWithButton extends StatelessWidget {
-//   const TitleWithButton({
-//     Key key, this.title, this.press,
-//   }) : super(key: key);
-//   final String title;
-//   final Function press;
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return Padding(
-//       padding: const EdgeInsets.only(top: 0),
-//       child: Row(
-//         children: <Widget>[
-//           SubTitleWithUnderline(text: title),
-//           Spacer(),
-//           FlatButton(
-//               color: kPrimaryColor,
-//               shape: RoundedRectangleBorder(
-//                   borderRadius: BorderRadius.circular(20)),
-//               onPressed: press,
-//               child: Text("Filters", style: TextStyle(color: Colors.white)))
-//         ],
-//       ),
-//     );
-//   }
-// }
+}
 
 
 class SubTitleWithUnderline extends StatelessWidget {
@@ -87,32 +62,3 @@ class SubTitleWithUnderline extends StatelessWidget {
   }
 }
 
-
-
-
-// class TitleWithButton extends StatelessWidget {
-//   const TitleWithButton({
-//     Key key, this.title, this.press,
-//   }) : super(key: key);
-//   final String title;
-//   final Function press;
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return Padding(
-//       padding: const EdgeInsets.only(top: 0),
-//       child: Row(
-//         children: <Widget>[
-//           SubTitleWithUnderline(text: title),
-//           Spacer(),
-//           FlatButton(
-//               color: kPrimaryColor,
-//               shape: RoundedRectangleBorder(
-//                   borderRadius: BorderRadius.circular(20)),
-//               onPressed: press,
-//               child: Text("Filters", style: TextStyle(color: Colors.white)))
-//         ],
-//       ),
-//     );
-//   }
-// }

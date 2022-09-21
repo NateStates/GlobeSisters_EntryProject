@@ -158,31 +158,3 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
   }
 }
 
-// class _HomePageState extends State<HomePage> {
-//   @override
-//   Widget build(BuildContext context) {
-//   Size size = MediaQuery.of(context).size;
-//     return Scaffold(
-//       body: Column(
-//         children: <Widget>[
-//         //UserHeaderAndSearchBar(size: size),
-//         DiscoverHeader(size: size),
-//         TitleWithButton(
-//           title: "Recommended",
-//           press: () {},
-//         ),
-//         Container(
-//           margin: EdgeInsets.only(left: 20, top: 10, bottom: 20),
-//           width: size.width * 0.4,
-//           child: Column(
-//             children: <Widget>[
-
-//               ],
-//             )
-//           )
-//         ],
-//       )
-
-//     );
-//   }
-// }
