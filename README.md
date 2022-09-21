@@ -1,16 +1,16 @@
-# code_practice
+# GlobeSisters_EntryProject
+This project is a couch surfing travel app for women. It is an entry project for the startup company at Berkeley SkyDeck called "Globe Sisters".
 
-A new Flutter project.
+Note: Files are posted under "master" branch instead of "main"
 
-## Getting Started
+Overview of App:
+Screen 1 (home_page.dart):
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/76016696/191600969-3056444e-20b5-421d-aeb2-f27554dc42f6.png)
 
-A few resources to get you started if this is your first Flutter project:
+Screen 3 (profile_page.dart):
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/76016696/191601132-b2743024-c7df-435c-8260-4f045f5caa52.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screen 2 (invite_friends.dart)
+[Note: This screen crashed after upgrading the Flutter SDk to a newer version]
