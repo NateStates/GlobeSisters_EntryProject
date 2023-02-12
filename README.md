@@ -1,5 +1,5 @@
 # GlobeSisters_EntryProject
-This project is a couch surfing travel app. It is a project for the startup company at Berkeley SkyDeck called "Globe Sisters".
+This is an independent project for the Berkeley SkyDeck startup called GlobeSisters, a women-only homestay community travel app. 
 
 ## Note: Files are posted under "master" branch instead of "main"
 
